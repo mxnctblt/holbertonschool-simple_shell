@@ -181,6 +181,6 @@ We are still reviewing our code in order to exeterminate our bugs.
 
 *For More Informations Check The Man Page*
 
-## Authors
+## Author
 
-Antoine Lelièvre & Maxence Thibault
+Maxence Thibault
